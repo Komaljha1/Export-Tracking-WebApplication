@@ -11,19 +11,19 @@ The application is built using HTML, CSS, JavaScript and local storage. The appl
 
 ### To start using this project use the following commands:
 
-## Step-1: (Initialising Project Directory)
+### Step-1: (Initialising Project Directory)
  Create project repo at root directory using command => mkdir
  Step Into created repo using command => cd
  
-## Step-2: (Cloning git repo remote)
+### Step-2: (Cloning git repo remote)
  git clone https://github.com/user-name/export-tracking-system.git
  cd export-tracking-system
  code . [//] => (this is if Visual Studio Code is your preferred text editor)
  
-## Step-3: (To run the project)
+### Step-3: (To run the project)
  Open the terminal on your system => ctrl+shift+`
  Navigate to the folder containing the HTML file.
  Open with the liveServer
  
  
-## -----------------------------------------------Happy Shipments-------------------------------------------------------------------
+### -----------------------------------------------Happy Shipments-------------------------------------------------------------------
